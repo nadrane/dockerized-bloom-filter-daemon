@@ -1,0 +1,1 @@
+FROM saidimu/bloomd:v0.7.4
